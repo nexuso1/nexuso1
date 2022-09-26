@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nexuso1
-- 👀 I’m interested in AI/Robotics
+- 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning the above.
 
 <!---
